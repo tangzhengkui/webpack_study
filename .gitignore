@@ -8,7 +8,6 @@ npm-debug.log.*
 thumbs.db
 !.gitkeep
 .idea
-dist/**/*
 .vscode/
 package-lock.json
 .eslintcache
