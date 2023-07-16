@@ -1,0 +1,14 @@
+.DS_Store
+build/*
+!build/icons
+!build/script
+node_modules/
+npm-debug.log
+npm-debug.log.*
+thumbs.db
+!.gitkeep
+.idea
+dist/**/*
+.vscode/
+package-lock.json
+.eslintcache
